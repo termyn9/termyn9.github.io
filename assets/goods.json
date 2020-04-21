@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "Роза фиолетовая",
+        "cost": 3000,
+        "description": "Возвышенная любовь",
+        "image": "../assets/images/Works/2.jpg"
+    },
+    "2": {
+        "name": "Роза пионовидная",
+        "cost": 4000,
+        "description": "Красота любви",
+        "image": "../assets/images/Works/9.jpg"
+    },
+    "3": {
+        "name": "Тюльпан красный",
+        "cost": 2500,
+        "description": "Робкий поцелуй",
+        "image": "../assets/images/Works/8.jpg"
+    }
+}
